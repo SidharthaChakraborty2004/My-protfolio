@@ -109,3 +109,9 @@ Database
 
 🌐 Portfolio & Professional Profiles
 <p align="left"> <a href="<!-- ADD YOUR PORTFOLIO URL -->"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="<!-- ADD YOUR LINKEDIN URL -->"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/SidharthaChakraborty2004"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:<!-- ADD YOUR PROFESSIONAL EMAIL -->"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  https://raw.githubusercontent.com/sidhartha-c/sidharthaChakraborty2004/output/github-contribution-grid-snake.svg
+</p>
