@@ -113,5 +113,5 @@ Database
 ## 🐍 Contribution Snake
 
 <p align="center">
-  https://raw.githubusercontent.com/sidhartha-c/sidharthaChakraborty2004/output/github-contribution-grid-snake.svg
+  https://raw.githubusercontent.com/sidharthaChakraborty2004/sidharthaChakraborty2004/output/github-contribution-grid-snake.svg
 </p>
