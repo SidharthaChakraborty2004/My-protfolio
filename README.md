@@ -3,11 +3,11 @@
 <h3 align="center">🚀 Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+;Building+Projects+Every+Day
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+;Building+Projects+Every+Day>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidharthaChakraborty2004&label=Profile%20Views&color=le=for-the-badge
+  <img src="https://komarev.com/ghpvc/?username=SidharthaChakraborty2004&label=Profile%20Views&color=le=for-the-badge>
 </p>
 
 ---
@@ -29,38 +29,38 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-  <img src="https://img.shields.io/badge/JavaScriptyle=for-the-badge&logo=javascript&logoColor=black
+  <img src="https://img.shields.io/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
+  <img src="https://img.shields.io/badge/JavaScriptyle=for-the-badge&logo=javascript&logoColor=black>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shieldsHTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  <img src="https://img.shields.io/badge/CSS3-le=for-the-badge&logo=css3&logoColor=white
-  <img src="https://img.shields.io/badge/React-20232A?style=for-theo=react&logoColor=61DAFB
+  <img src="https://img.shieldsHTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white >
+  <img src="https://img.shields.io/badge/CSS3-le=for-the-badge&logo=css3&logoColor=white>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-theo=react&logoColor=61DAFB>
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-logo=springboot&logoColor=white
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-logo=springsecurity&logoColor=white
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-logo=springboot&logoColor=white>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-logo=springsecurity&logoColor=white>
 </p>
 
 ### Database
 
 <p>
-  <img src="https://s.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+  <img src="https://s.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white>
 </p>
 
 ### Tools
 
 <p>
-  <img src="g.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-  <img src="https://img.shieldsGitHub-181717?style=for-the-badge&logo=github&logoColor=white
-  <img src="https://img.shields.io/ban-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badgellijidea&logoColor=white
+  <img src="g.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white>
+  <img src="https://img.shieldsGitHub-181717?style=for-the-badge&logo=github&logoColor=white>
+  <img src="https://img.shields.io/ban-FF6C37?style=for-the-badge&logo=postman&logoColor=white>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badgellijidea&logoColor=white>
 </p>
 
 ---
@@ -128,7 +128,7 @@ Currently mastering:
 </p>
 
 <p align="center">
-  <img heighthub-readme-stats.vercel.app/api/top-langs/?username=SidharthaChakraborty2004&layout=compact&theme=tokyonight
+  <img heighthub-readme-stats.vercel.app/api/top-langs/?username=SidharthaChakraborty2004&layout=compact&theme=tokyonight>
 </p>
 
 ---
@@ -144,7 +144,7 @@ Currently mastering:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profilercel.app/?username=SidharthaChakraborty2004&theme=tokyonight&row=1&column=7
+  <img src="https://github-profilercel.app/?username=SidharthaChakraborty2004&theme=tokyonight&row=1&column=7>
 </p>
 
 ---
@@ -152,7 +152,7 @@ Currently mastering:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthaChakraborty2004yo-night
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthaChakraborty2004yo-night>
 </p>
 
 ---
@@ -198,7 +198,7 @@ while(alive){
 > Add the snake workflow first. Once it runs successfully, this animation will appear automatically.
 
 <p align="center">
-  <img src="w.githubusercontent.com/SidharthaChakraborty2004/SidharthaChakraborty2004/output/github-contribution-grid-snake.svg
+  <img src="w.githubusercontent.com/SidharthaChakraborty2004/SidharthaChakraborty2004/output/github-contribution-grid-snake.svg>
 </p>
 
 ---
