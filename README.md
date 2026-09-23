@@ -3,68 +3,79 @@
 <h3 align="center">🚀 Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java++Developer;Spring+Boot+Developer;React+Developer;DSA+Enthusiast;Learning+and+Building+Everyday
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+;Building+Projects+Every+Day
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidharthaChakraborty2004&ile+Views&color=blue&style=for-the-badge
+  <img src="https://komarev.com/ghpvc/?username=SidharthaChakraborty2004&label=Profile%20Views&color=le=for-the-badge
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
-- 💻 Aspiring Java Full Stack Developer
-- 🌱 Learning Spring Boot, React, MySQL & DSA
-- 🚀 Building real-world projects
-- 🎯 Goal: Become a Software Engineer
+- 💻 Passionate about Java Full Stack Development
+- 🌱 Currently learning Spring Boot, React, MySQL, and DSA
+- 🚀 Building real-world projects to strengthen my development skills
+- 🎯 Goal: Become a Professional Software Engineer
+
+> **Learn → Practice → Build → Deploy → Repeat**
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/va-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-![JavaScript](https://img.shields.io/badge/F1E?style=for-the-badge&logo=javascript&logoColor=black
+<p>
+  <img src="https://img.shields.io/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+  <img src="https://img.shields.io/badge/JavaScriptyle=for-the-badge&logo=javascript&logoColor=black
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badgeF26?style=for-the-badge&logo=html5&logoColor=white
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=csslor=white
-![React](https://img.shields.io/badge/React-20232A?style=fore&logo=react&logoColor=61DAFB
+<p>
+  <img src="https://img.shieldsHTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+  <img src="https://img.shields.io/badge/CSS3-le=for-the-badge&logo=css3&logoColor=white
+  <img src="https://img.shields.io/badge/React-20232A?style=for-theo=react&logoColor=61DAFB
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.ioot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-![Spring Security](https://img.shields.io/y-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-logo=springboot&logoColor=white
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-logo=springsecurity&logoColor=white
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?stylebadge&logo=mysql&logoColor=white
+<p>
+  <img src="https://s.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/G32?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-![Postman](https://img.shields.io/an-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+<p>
+  <img src="g.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+  <img src="https://img.shieldsGitHub-181717?style=for-the-badge&logo=github&logoColor=white
+  <img src="https://img.shields.io/ban-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badgellijidea&logoColor=white
+</p>
 
 ---
 
-# 📚 Current Learning Journey
+## 📚 Current Learning Roadmap
 
 ```text
 ✅ HTML & CSS
 ✅ JavaScript
-✅ React
+✅ React.js
 ✅ Core Java
-✅ OOP
-✅ Collections
+✅ OOP & Collections
 ✅ SQL & MySQL
 🔄 Spring Boot
-🔄 Spring Security
-🔄 JWT
+🔄 Spring Security & JWT
 🔄 Full Stack Projects
 ⏳ Docker
 ⏳ Microservices
@@ -72,89 +83,99 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏢 Employee Management System
-
-Full Stack CRUD Application built with:
-
-- React
-- Spring Boot
-- MySQL
+- Employee CRUD Operations
+- Spring Boot REST APIs
+- React Frontend
+- MySQL Database
 
 ### 💰 Personal Finance Manager
-
-Features:
-
 - Expense Tracking
-- Dashboard
-- Reports
-- Authentication
+- Budget Management
+- Reports & Dashboard
+- Authentication System
 
 ### 💼 Job Portal
-
-Features:
-
 - JWT Authentication
-- Role Management
-- Job Applications
+- Role-Based Access Control
+- Job Posting & Applications
 - Admin Dashboard
 
 ---
 
-# 📊 GitHub Statistics
+## 💻 DSA Journey
+
+Currently mastering:
+
+- Arrays & Strings
+- Hashing
+- Sliding Window
+- Binary Search
+- Linked Lists
+- Stack & Queue
+- Trees & BST
+- Graphs
+- Dynamic Programming
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=SidharthaChakraborty2004&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthaChakraborty2004&layout=compact&theme=tokyonight
+  https://github-readme-stats.vercel.app/api?username=SidharthaChakraborty2004&show_icons=true&theme=tokyonight
+</p>
+
+<p align="center">
+  <img heighthub-readme-stats.vercel.app/api/top-langs/?username=SidharthaChakraborty2004&layout=compact&theme=tokyonight
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-https://streak-stats.demolab.com?user=SidharthaChakraborty2004&theme=tokyonight
+  https://streak-stats.demolab.com?user=SidharthaChakraborty2004&theme=tokyonight
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-https://github-profile-trophy.vercel.app/?username=SidharthaChakraborty2004&theme=tokyonight&row=1&column=7
+  <img src="https://github-profilercel.app/?username=SidharthaChakraborty2004&theme=tokyonight&row=1&column=7
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-https://github-readme-activity-graph.vercel.app/graph?username=SidharthaChakraborty2004&theme=tokyo-night](https://github.com/SidharthaChakraborty2004)
-
----
-
-# 🎯 Goals 2026
-
-✅ Master Core Java
-
-✅ Master Spring Boot
-
-✅ Build 3 Full Stack Projects
-
-✅ Deploy Projects
-
-✅ Improve DSA
-
-✅ Crack Software Developer Interviews
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthaChakraborty2004yo-night
+</p>
 
 ---
 
-# 💡 Developer Philosophy
+## 🎯 Goals 2026
+
+- ✅ Master Core Java
+- ✅ Master Spring Boot
+- ✅ Learn Spring Security & JWT
+- ✅ Build 3 Major Full Stack Projects
+- ✅ Deploy Real Applications
+- ✅ Improve DSA Skills
+- ✅ Get a Java Full Stack Developer Role
+
+---
+
+## 💡 Developer Philosophy
 
 ```java
 while(alive){
     learn();
-    build();
+    code();
+    debug();
     improve();
     repeat();
 }
@@ -162,18 +183,28 @@ while(alive){
 
 ---
 
-# 🐍 Contribution Snake
+## 🌐 Connect With Me
 
-> This will work after you set up the snake workflow.
+<p align="left">
+  <a href="https://github.com/SidharthaChakraborty2004">
+    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Add the snake workflow first. Once it runs successfully, this animation will appear automatically.
 
 <p align="center">
-  https://raw.githubusercontent.com/SidharthaChakraborty2004/SidharthaChakraborty2004/output/github-contribution-grid-snake.svg
+  <img src="w.githubusercontent.com/SidharthaChakraborty2004/SidharthaChakraborty2004/output/github-contribution-grid-snake.svg
 </p>
 
 ---
 
 <h3 align="center">
-🚀 Learn • Practice • Build • Deploy • Succeed
+🚀 Learn • Practice • Commit • Build • Deploy • Succeed
 </h3>
 
 <p align="center">
